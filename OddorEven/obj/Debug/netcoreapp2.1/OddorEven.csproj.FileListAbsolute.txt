@@ -1,0 +1,11 @@
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/bin/Debug/netcoreapp2.1/OddorEven.deps.json
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/bin/Debug/netcoreapp2.1/OddorEven.runtimeconfig.json
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/bin/Debug/netcoreapp2.1/OddorEven.runtimeconfig.dev.json
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/bin/Debug/netcoreapp2.1/OddorEven.dll
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/bin/Debug/netcoreapp2.1/OddorEven.pdb
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.csprojAssemblyReference.cache
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.AssemblyInfo.cs
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.dll
+/Users/mac/Desktop/Labs/OddorEven/OddorEven/obj/Debug/netcoreapp2.1/OddorEven.pdb
